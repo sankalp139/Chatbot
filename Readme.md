@@ -1,4 +1,4 @@
-# Watson Chatbot Boilerplate
+# Chatbot Boilerplate
 
 This is a simple boilerplate to MVP Chatbot applications using IBM Watson. It uses `Node` and `Express` in the backend to serve files and establish an interface to Watson Conversation API.
 
